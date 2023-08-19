@@ -10,4 +10,9 @@
 
 ### [Game Design and Development 3: 3D Shooter](https://www.coursera.org/learn/game-design-and-development-3?specialization=game-design-and-development).
 
+## Courses Left:
+
+### [Game Design and Development 4: 3D Platformer](https://www.coursera.org/learn/game-design-and-development-4).
+
+### [Game Design and Development 5: Capstone Project](https://www.coursera.org/learn/game-design-and-development-5).
 
