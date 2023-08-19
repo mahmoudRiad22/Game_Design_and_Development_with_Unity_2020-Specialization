@@ -2,9 +2,9 @@
 
 ## by the time I'm creating this I already Finished:
 
-### [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1?specialization=game-design-and-development).[Certification](https://coursera.org/share/90c5a6ff6ded6564913e99ee2bd85fa4)
+### [Game Design and Development 1: 2D Shooter](https://www.coursera.org/learn/game-design-and-development-1?specialization=game-design-and-development). [[Certification]](https://coursera.org/share/90c5a6ff6ded6564913e99ee2bd85fa4)
 
-### [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2?specialization=game-design-and-development).[Certification](https://coursera.org/share/f5add74b6acf86e37403bd3ad7cd8562)
+### [Game Design and Development 2: 2D Platformer](https://www.coursera.org/learn/game-design-and-development-2?specialization=game-design-and-development). [[Certification]](https://coursera.org/share/f5add74b6acf86e37403bd3ad7cd8562)
 
 ## and Current course is:
 
